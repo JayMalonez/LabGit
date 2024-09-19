@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Voici l'accueil de ce projet</h1>
+    <h2>C'est aussi la suite</h2>
 </body>
 </html>
