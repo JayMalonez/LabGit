@@ -8,5 +8,6 @@
 <body>
     <h1>Voici l'accueil de ce projet</h1>
     <h2>C'est aussi la suite</h2>
+    <h3>La fin du projet</h3>
 </body>
 </html>
